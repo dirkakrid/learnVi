@@ -1,0 +1,11 @@
+Running shell commands from vi: [link]http://web.physics.ucsb.edu/~pcs/apps/editors/vi/vi_unix.html
+								To run a single UNIX command use the command: :!UNIX_command
+								You can start a shell from within vi and use it as you would your usual UNIX environment, then exit the shell and return to vI
+								To start up a shell enter the command:
+								:sh
+								To insert the output from a UNIX command into a file, immediately after the cursor: :r!command
+
+Link to further running: http://web.physics.ucsb.edu/~pcs/apps/editors/vi/
+
+
+
